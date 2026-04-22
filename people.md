@@ -43,6 +43,11 @@ title: People
 <p>Department of Meteorology, University of Reading</p>
 <p><em>Current research interests: global high-resolution model evaluation,&nbsp;mescoscale convective systems, feature-tracking methods</em></p>
 
+<h3><a href="[https://research.reading.ac.uk/meteorology/people/torsten-auerswald/](https://leosaffin.github.io)">Dr Leo Saffin</a></h3>
+<p><strong>Research Scientist</strong></p>
+<p>Department of Meteorology, University of Reading</p>
+<p><em>Current research interests: tropical cyclones and extratropical interactions, feature-tracking methods</em></p>
+
 <h3><a href="https://knreddy.online" target="_blank">Dr&nbsp;Narender Reddy Kangari</a></h3>
 <p><strong>Research Scientist</strong></p>
 <p>NCAS-Climate &amp;Department of Meteorology, University of Reading</p>
